@@ -1,0 +1,7 @@
+import pdb
+
+input_string = input()
+
+print('world, hello')
+
+print(input_string)
